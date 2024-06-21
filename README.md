@@ -63,6 +63,7 @@ I also have experience working with various databases, including MySQL, Postgres
 </P>
 
 ### Competitive Programming Status
+<!--
 <a href="https://www.stopstalk.com/user/profile/prince71048"> Competitive Programming Status </a/> <br>
 
 <a href="https://www.codechef.com/users/prince71048"><img src="https://miro.medium.com/max/333/1*1W0-bbmt4iiEpp_pPrS0VQ.png" width="50" height="50"/></a>
@@ -75,3 +76,4 @@ I also have experience working with various databases, including MySQL, Postgres
 <a href="https://todi-2000.github.io">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manishprajapat01997&layout=compact" align="center"/>
 </a>
+-->
