@@ -53,17 +53,14 @@ I also have experience working with various databases, including MySQL, Postgres
 
 <img src="https://cdn.pixabay.com/photo/2017/01/31/15/33/linux-2025130_1280.png" alt="kali linux " width="40" height="40"/> 
 </p>
-
+<!--
 ### IDE KNOWLEDGE
 <P>
-<!-- <img src="https://raw.githubusercontent.com/manishprajapat01997/practice-resume/main/image/pycharm.jpeg?token=AQK7S62LPP6K2AXTT7BV3X3AKC6QM" alt="pycharm " width="40" height="40"/>  -->
-<!-- <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="pycharm " width="40" height="40"/>  -->
-  
-
+ <img src="https://raw.githubusercontent.com/manishprajapat01997/practice-resume/main/image/pycharm.jpeg?token=AQK7S62LPP6K2AXTT7BV3X3AKC6QM" alt="pycharm " width="40" height="40"/> 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="pycharm " width="40" height="40"/> 
 </P>
-
-### Competitive Programming Status
 <!--
+### Competitive Programming Status
 <a href="https://www.stopstalk.com/user/profile/prince71048"> Competitive Programming Status </a/> <br>
 
 <a href="https://www.codechef.com/users/prince71048"><img src="https://miro.medium.com/max/333/1*1W0-bbmt4iiEpp_pPrS0VQ.png" width="50" height="50"/></a>
