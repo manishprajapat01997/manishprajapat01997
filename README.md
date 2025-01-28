@@ -41,6 +41,10 @@ I also have experience working with various databases, including MySQL and Postg
 
 <img src="https://cdn.pixabay.com/photo/2017/01/31/15/33/linux-2025130_1280.png" alt="kali linux " width="40" height="40"/> 
 </p>
+<a href="https://www.linkedin.com/in/manish-kumar-prajapat-248757282">
+  <img src="https://img.shields.io/badge/@manish--kumar--prajapat-blue?style=flat&logo=linkedin" alt="LinkedIn Profile"/>
+</a>
+
 
 <br>
 
